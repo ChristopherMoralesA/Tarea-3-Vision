@@ -1,3 +1,3 @@
-IMG_09.jpg:A Valor de cada dado: 1, 4 y 5, y los puntos totales son 10.
-IMG_20.jpg:A Valor de cada dado: 3, 5 y 6, y los puntos totales son 14.
-IMG_38.jpg:A Valor de cada dado: 3, 6 y 4, y los puntos totales son 13.
+IMG_09.jpg: Valor de cada dado: 4, 1 y 5, y los puntos totales son 10.
+IMG_20.jpg: Valor de cada dado: 5, 3 y 6, y los puntos totales son 14.
+IMG_38.jpg: Valor de cada dado: 6, 3 y 4, y los puntos totales son 13.
